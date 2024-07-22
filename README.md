@@ -129,10 +129,17 @@ Enter page sequence (comma-separated): 1, 3, 0, 3, 5, 6, 3
 Enter replacement algorithm (FIFO, LRU, Optimal): LRU
 
 Frames: [1, -1, -1]
+
 Frames: [1, 3, -1]
+
 Frames: [1, 3, 0]
+
 Frames: [1, 3, 0]
+
 Frames: [5, 3, 0]
+
 Frames: [5, 6, 0]
+
 Frames: [5, 6, 3]
+
 Total Page Faults: 6
